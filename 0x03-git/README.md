@@ -11,3 +11,4 @@ git push -u origin branch
 
 #Git pull = fetch + merge (jala y fusiona)
 $ git pull remotename branchname
+$ git pull origin main
